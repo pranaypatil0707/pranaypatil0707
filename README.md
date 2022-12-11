@@ -1,6 +1,7 @@
 ### Hi there 👋, I am pranay patil.
 #### I am a java developer.
-![I am a java developer.](https://scontent.fpnq14-1.fna.fbcdn.net/v/t39.30808-6/319678658_1601275213626294_7255928871856265436_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0otofNw3PdIAX-BMiDH&_nc_ht=scontent.fpnq14-1.fna&oh=00_AfBeicOQXEvP910-JiVSEBdQ9apdRwCHHIwklHPNiuKErg&oe=639A7A24)
+![I am a java developer.](https://scontent.fpnq14-1.fna.fbcdn.net/v/t39.30808-6/318456834_1601287836958365_729884913448589227_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=OjjtP0aOuQgAX9YMWy-&_nc_ht=scontent.fpnq14-1.fna&oh=00_AfBKV26oajDuhAgYHnBaEOxu_POQdvnJdxU9UtgvgKs73Q&oe=639AADDD)
+
 
 I have a ability to do anything. My vision is to be a transperant and scalable JAVA Developer.
 
